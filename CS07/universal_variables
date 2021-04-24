@@ -1,0 +1,18 @@
+# This file contains universal variable definitions.
+program_name="HappyIP"
+making="Apr 17 2021"
+author="Z3R07-RED"
+version="1.0.0"
+PWD=$(pwd)
+## Setup website and start php server
+HOST='127.0.0.1'
+PORT='8080'
+#Directory
+log_directory="logs"
+tmp_directory="tmp"
+config_directory=".config"
+CS07="CS07"
+#Files
+colors="${CS07}/colors"
+
+#Coded by Club Secreto 07
