@@ -30,4 +30,8 @@ USAGE:
 * `chmod +x HappyIP.sh`
 * `bash HappyIP.sh`
 
+* `[01]`   HappyIP: HappyIP official page you just have to enter a title for the page.
+
+* `[02]` WhiteLink: In this option you have to enter a link.
+
 
