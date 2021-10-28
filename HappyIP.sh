@@ -403,10 +403,12 @@ function main_menu() {
 
 	if [[ "$REPLY" == 1 || "$REPLY" == 01 ]]; then
 		website="happy"
+        mask="http://happy"
         happy_ip_config
         tunnel_menu
 	elif [[ "$REPLY" == 2 || "$REPLY" == 02 ]]; then
 		website="happy2"
+        mask="http://happy2"
         happy_ip_config
         tunnel_menu
 	elif [[ "$REPLY" == 9 || "$REPLY" == 99 ]]; then
